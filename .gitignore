@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Environment‑variable secrets
+.env
+
+src/spotify_tracks.db
+
+src/.cache
+
+src/__pycache__/
